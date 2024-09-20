@@ -1,5 +1,5 @@
 # spook2024
-The source code of my 2024 vacation project for a hayride.
+The source code of my 2024 vacation project for a hayride. It was a quick 9-day sprint during my vacation, where I worked an average of about 7 hours per day on this, from the moment of announcement of the event until the evening it happened. Hope this'll be useful to someone somewhere sometime. <sub><sup>If they can read it...</sup></sub>
 
 ```
 It may look like a mess,  
